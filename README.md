@@ -18,5 +18,5 @@
 
 
 ###  Algorithm Level 🔥
-###### 하루 2문제씩 풀이
+###### 하루 2문제씩 풀이 Platinum 도전~!
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
