@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
