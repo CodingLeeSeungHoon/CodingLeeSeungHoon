@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+###### 매일 알고리즘 2문제 해결
+###### OpenCV + ML Computer Vision, Detection study
+###### ML PipeLine
+###### Android Application Develop
 <!--
 **CodingLeeSeungHoon/CodingLeeSeungHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
