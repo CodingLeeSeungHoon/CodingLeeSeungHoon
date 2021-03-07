@@ -1,8 +1,8 @@
 ### 관심분야 Interests 🔥
 
-###### - OpenCV + ML Computer Vision, Detection study
-###### - ML PipeLine
-###### - Android Application Develop
+ - OpenCV + ML Computer Vision, Detection study    
+ - ML PipeLine    
+ - Android Application Develop    
 
 ### 교내외 활동, 학점 🔥
  2017. 한국산업기술대학교 컴퓨터공학과 입학    
@@ -14,7 +14,7 @@
  성적우수장학생 선발    
  KPU Software 경진대회 프로그래밍 부문 장려상 수상    
 
-###### GPA 4.3 / 4.5 Major 4.32 / 4.5
+ GPA 4.3 / 4.5 Major 4.32 / 4.5
 
 
 ###  Algorithm Level 🔥
