@@ -19,7 +19,7 @@
 ### Indivisual Project
 
 ### Team Project 🔥
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
 
 ###  Algorithm Level 🔥
 ###### 하루 2문제씩 풀이 Platinum 도전~!
