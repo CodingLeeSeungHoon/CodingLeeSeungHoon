@@ -16,7 +16,7 @@
 
  GPA 4.3 / 4.5 Major 4.32 / 4.5
 
-### Indivisual Project
+### Indivisual Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=computerVisionStudy)](https://github.com/CodingLeeSeungHoon/computerVisionStudy)
 
 ### Team Project 🔥
