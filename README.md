@@ -16,6 +16,10 @@
 
  GPA 4.3 / 4.5 Major 4.32 / 4.5
 
+### Indivisual Project
+
+### Team Project 🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  Algorithm Level 🔥
 ###### 하루 2문제씩 풀이 Platinum 도전~!
