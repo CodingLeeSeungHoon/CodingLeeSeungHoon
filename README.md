@@ -18,6 +18,7 @@
 
 ### Indivisual Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=computerVisionStudy)](https://github.com/CodingLeeSeungHoon/computerVisionStudy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=KaggleStudy)](https://github.com/CodingLeeSeungHoon/KaggleStudy)
 
 ### Team Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
