@@ -15,10 +15,13 @@
  KPU Software 경진대회 프로그래밍 부문 장려상 수상    
 
  GPA 4.3 / 4.5 Major 4.32 / 4.5
+ 
 
 ### Individual Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=computerVisionStudy)](https://github.com/CodingLeeSeungHoon/computerVisionStudy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=KaggleStudy)](https://github.com/CodingLeeSeungHoon/KaggleStudy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Honmonu_Android_Projects)](https://github.com/CodingLeeSeungHoon/Honmonu_Android_Projects)
+
 
 ### Team Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
