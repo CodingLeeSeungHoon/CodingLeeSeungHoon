@@ -1,8 +1,8 @@
 ### 관심분야 Interests 🔥
 
- - OpenCV + ML Computer Vision, Detection study    
- - ML PipeLine    
+ - AI, ML Application    
  - Android Application Develop    
+ - Backend    
 
 ### 교내외 활동, 학점 🔥
  2017. 한국산업기술대학교 컴퓨터공학과 입학    
