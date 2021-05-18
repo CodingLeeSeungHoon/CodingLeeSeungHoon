@@ -5,7 +5,7 @@
  - Backend    
 
 ### 기술 블로그 & 포트폴리오 🔥
-기술 블로그 : https://blog.naver.com/free_minkya
+기술 블로그 : https://blog.naver.com/free_minkya    
 포트폴리오 : https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9
  
 
