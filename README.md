@@ -14,7 +14,6 @@
 
 ### Team Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=SocketProjects)](https://github.com/CodingLeeSeungHoon/SocketProjects)
 
 
 ### Algorithm Level 🔥 : 하루에 2문제 풀이
