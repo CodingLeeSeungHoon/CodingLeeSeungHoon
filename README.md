@@ -15,9 +15,8 @@
 > ### Team Project 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=SocketProjects)](https://github.com/CodingLeeSeungHoon/SocketProjects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=StockPricePredictor)](https://github.com/CodingLeeSeungHoon/StockPricePredictor
-)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=StockPricePredictor)](https://github.com/CodingLeeSeungHoon/StockPricePredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NewsTitleMaker)](https://github.com/CodingLeeSeungHoon/NewsTitleMaker)
 
 
 > ### BOJ Level 🔥
