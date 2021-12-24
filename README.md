@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=%23000000&size=50&center=true&vCenter=true&width=1200&height=70&lines=%F0%9F%99%8B%F0%9F%8F%BB+SeungHoon's+GITHUB)](https://github.com/CodingLeeSeungHoon)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=%23000000&size=25&center=true&vCenter=true&width=1200&height=30&lines=I+want+to+be+a+Backend-Engineer+who+knows+A.I+well)](https://github.com/CodingLeeSeungHoon)
 
 <p align="center">
   <a href="https://blog.naver.com/free_minkya">
