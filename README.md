@@ -1,11 +1,14 @@
-### 관심분야 Interests 🔥
- - AI, ML Application   
- - Backend    
 
+<p align="center">
+  <a href="https://blog.naver.com/free_minkya">
+      <img src="https://img.shields.io/badge/TECH_BLOG-000000?style=for-the-badge&logo=blog&logoColor=white"> 
+  </a>
+  
+  <a href="https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9">
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=blog&logoColor=white"> 
+  </a>
+</p>
 
-### 기술 블로그 & 포트폴리오 🔥
-기술 블로그 : https://blog.naver.com/free_minkya    
-포트폴리오 : https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9
 
 ---
 ### Individual Project 🔥
