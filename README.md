@@ -13,18 +13,30 @@
 
 
 ---
-### Individual Project 🔥
+### 🧑🏻‍💻 Individual Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Python_Algorithm_TeamNote)](https://github.com/CodingLeeSeungHoon/Python_Algorithm_TeamNote)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=JPABulkInsertAnalysis)]( https://github.com/CodingLeeSeungHoon/JPABulkInsertAnalysis)
 
 ---
-### Team Project 🔥
+### 🧑🏻‍💻 Team Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Hair_loss)](https://github.com/CodingLeeSeungHoon/Hair_loss)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=StockPricePredictor)](https://github.com/CodingLeeSeungHoon/StockPricePredictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NewsTitleMaker)](https://github.com/CodingLeeSeungHoon/NewsTitleMaker)
 
 ---
-### BOJ Level 🔥
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
 
+<details>
+  <summary>💡 Algorithm LEVEL(BOJ) </summary>
+  
+ [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)  
+
+</details>
+<details>
+  <summary> 💎 Develop Stack </summary>
+  
+ ```
+  Not updated.
+ ```
+
+</details>
