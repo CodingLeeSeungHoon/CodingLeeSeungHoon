@@ -19,7 +19,7 @@
 
 ---
 ### 🧑🏻‍💻 Team Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Hair_loss)](https://github.com/CodingLeeSeungHoon/Hair_loss)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=HairLossDetection)](https://github.com/CodingLeeSeungHoon/HairLossDetection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=StockPricePredictor)](https://github.com/CodingLeeSeungHoon/StockPricePredictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NewsTitleMaker)](https://github.com/CodingLeeSeungHoon/NewsTitleMaker)
