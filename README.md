@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=%23000000&size=25&center=true&vCenter=true&width=1200&height=30&lines=I+want+to+be+a+Backend-Engineer+who+knows+A.I+well)](https://github.com/CodingLeeSeungHoon)
 
 <p align="center">
-  <a href='https://blog.naver.com/free_minkya' target='_blank'>
+  <a href="https://blog.naver.com/free_minkya" target="_blank">
       <img src="https://img.shields.io/badge/TECH_BLOG-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
   
-  <a href='https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9' target='_blank'>
+  <a href="https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
 </p>
