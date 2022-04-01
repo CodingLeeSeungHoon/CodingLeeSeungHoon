@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/TECH_BLOG-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
   
-  <a href="https://www.notion.so/8cab7955ef7d43d0bff1b74114b06bb9" target="_blank">
+  <a href="https://www.notion.so/SeungHoon-Lee-f73fdb0e3fe84c37a07c2308e9caa336" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
 </p>
