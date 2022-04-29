@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="https://blog.naver.com/free_minkya" target="_blank">
-      <img src="https://img.shields.io/badge/TECH_BLOG-000000?style=for-the-badge&logo=blog&logoColor=white"> 
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
   
   <a href="https://codingleeseunghoon.notion.site/SeungHoon-Lee-f73fdb0e3fe84c37a07c2308e9caa336" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=blog&logoColor=white"> 
+      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=blog&logoColor=white"> 
   </a>
 </p>
 
