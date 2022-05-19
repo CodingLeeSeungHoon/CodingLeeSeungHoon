@@ -32,12 +32,9 @@
 
 ---
 
-<details>
-  <summary>💡 Algorithm LEVEL(BOJ) </summary>
-  
- [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)  
+💡 Algorithm LEVEL(BOJ)         </br>    </br>
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)  
 
-</details>
 <details>
   <summary> 💎 Develop Stack </summary>
   
