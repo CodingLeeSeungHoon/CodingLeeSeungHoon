@@ -34,6 +34,7 @@
 
 💡 Algorithm LEVEL(BOJ)         </br>    </br>
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=free_minkya&theme=dark)
 <details>
   <summary> 💎 Develop Stack </summary>
