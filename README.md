@@ -1,51 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=%23000000&size=50&center=true&vCenter=true&width=1200&height=70&lines=%F0%9F%99%8B%F0%9F%8F%BB+SeungHoon's+GITHUB)](https://github.com/CodingLeeSeungHoon)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=%23000000&size=25&center=true&vCenter=true&width=1200&height=30&lines=I+want+to+be+a+Backend-Engineer+who+knows+A.I+well)](https://github.com/CodingLeeSeungHoon)
-
-<p align="center">
-  <a href="https://hoons-dev.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/DEV BLOG-000000?style=for-the-badge&logo=blog&logoColor=white"> 
-  </a>
-  
-  <a href="https://codingleeseunghoon.notion.site/SeungHoon-Lee-f73fdb0e3fe84c37a07c2308e9caa336" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=blog&logoColor=white"> 
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodingLeeSeungHoon%2F&count_bg=%23989898&title_bg=%23555555&icon=swarm.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-  </a>
-</p>
 
 
 # 💜 NEO(Need Each Other)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NEO_Backend)](https://github.com/CodingLeeSeungHoon/NEO_Backend)
+<p align="center"><img src="neo_ui_example.png" height="870px" width="900px"></p>
 
-<p align="center"><img src="neo_ui_example.png" height="900px" width="900px"></p>
+#### - 간단 소개
+> `NEO`는 `Need Each Other`로, 스타와 팬은 서로를 필요로 하는 관계에서 착안해 제작중인 서비스입니다. 스타의 일상을 공유하고, 자유와 제한을 통해 성숙한 소통을 할 수 있는 `스타페이지`, 팬들에게 질문해 가장 많이 공감하는 말을 들을 수 있는 `스타톡`, `암표걱정 없는 콘서트/팬미팅 예매 기능`을 목표로 제작중입니다.
+
+#### - Dev Stack(상세 내용은 상단 카드를 눌러주세요.)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### - 본인 성과(상세 내용은 상단 카드를 눌러주세요.)
+- `DDD(Domain Driven Design)` 도입, `스타페이지`/`카테고리`/`포스트` 애그리거트 개발
+- `Docker-Compose`를 통한 개발환경 구축
+- `Spring REST Docs`를 활용한 컨트롤러 테스트 기반 `API 문서` 작성 경험
 
 ---
-### 🧑🏻‍💻 Individual Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Python_Algorithm_TeamNote)](https://github.com/CodingLeeSeungHoon/Python_Algorithm_TeamNote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=GTMVCServerSide)](https://github.com/CodingLeeSeungHoon/GTMVCServerSide)
-
----
-### 🧑🏻‍💻 Team Project
+# 🧑🏻‍💻 제발모발(JBMB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=HairLossDetection)](https://github.com/CodingLeeSeungHoon/HairLossDetection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=gazuaProject)](https://github.com/CodingLeeSeungHoon/gazuaProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=StockPricePredictor)](https://github.com/CodingLeeSeungHoon/StockPricePredictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NewsTitleMaker)](https://github.com/CodingLeeSeungHoon/NewsTitleMaker)
 
 ---
 
-💡 Algorithm LEVEL(BOJ)         </br>    </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=free_minkya)](https://solved.ac/free_minkya)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=free_minkya&theme=dark)](https://solved.ac/profile/free_minkya)
-<details>
-  <summary> 💎 Develop Stack </summary>
-  
- ```
-  Not updated.
- ```
-
-</details>
