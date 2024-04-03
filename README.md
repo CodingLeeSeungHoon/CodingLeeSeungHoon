@@ -18,6 +18,8 @@
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NEO_Backend)](https://github.com/CodingLeeSeungHoon/NEO_Backend)
+
 ---
 ### 🧑🏻‍💻 Individual Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=Python_Algorithm_TeamNote)](https://github.com/CodingLeeSeungHoon/Python_Algorithm_TeamNote)
