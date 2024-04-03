@@ -17,8 +17,10 @@
 </p>
 
 
-
+# 💜 NEO(Need Each Other)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=NEO_Backend)](https://github.com/CodingLeeSeungHoon/NEO_Backend)
+
+<p align="center"><img src="neo_ui_example.png" height="900px" width="900px"></p>
 
 ---
 ### 🧑🏻‍💻 Individual Project
