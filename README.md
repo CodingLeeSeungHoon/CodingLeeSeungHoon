@@ -29,6 +29,7 @@
 ---
 # 🧑🏻‍💻 제발모발(JBMB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingLeeSeungHoon&repo=HairLossDetection)](https://github.com/CodingLeeSeungHoon/HairLossDetection)
+<p align="center"><img src="JBMB_system_architecture.jpg" height="450px" width="900px"></p>
 
 ---
 
