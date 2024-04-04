@@ -1,3 +1,4 @@
+![SeungHoon's card name](https://cardivo.vercel.app/api?name=SeungHoon%20LEE&description='개발'이라는%20도구를%20사용해%20세상을%20바꾸는%20사람&image=https://avatars.githubusercontent.com/u/33148052?v=4&site=https://github.com/CodingLeeSeungHoon&backgroundColor=%23ecf0f1&github=CodingLeeSeungHoon&linkedin=free_minkya&pattern=floatingCogs&colorPattern=%23eaeaea)
 
 
 # 💜 NEO(Need Each Other)
