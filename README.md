@@ -19,8 +19,10 @@
 
 #### - 본인 성과(상세 내용은 상단 카드를 눌러주세요.)
 - `DDD(Domain Driven Design)` 도입, `스타페이지`/`카테고리`/`포스트` 애그리거트 개발 : https://www.notion.so/codingleeseunghoon/NEO-82b16cbc7dc6494090bca419162fa420
+- `Redis Cluster` 구축 경험 (Master 3 : Replica 3)
 - `Docker-Compose`를 통한 개발환경 구축
 - `Spring REST Docs`를 활용한 컨트롤러 테스트 기반 `API 문서` 작성 경험
+- `Spirng Security + OAuth2 Client + JWT Token`을 활용한 소셜 로그인 구현
 
 
 ---
