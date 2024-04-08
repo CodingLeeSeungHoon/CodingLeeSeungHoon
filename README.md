@@ -19,7 +19,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### - 본인 성과(상세 내용은 상단 카드를 눌러주세요.)
-- `DDD(Domain Driven Design)` 도입, `스타페이지`/`카테고리`/`포스트` 애그리거트 개발 : https://www.notion.so/codingleeseunghoon/NEO-82b16cbc7dc6494090bca419162fa420
+- `DDD(Domain Driven Design) START!` 도서를 읽고 설계 도입, `스타페이지`/`카테고리`/`포스트` 애그리거트 개발 : https://www.notion.so/codingleeseunghoon/NEO-82b16cbc7dc6494090bca419162fa420
 - `Redis Cluster` 구축 경험 (Master 3 : Replica 3)
 - `Docker-Compose`를 통한 개발환경 구축
 - `Spring REST Docs`를 활용한 컨트롤러 테스트 기반 `API 문서` 작성 경험
